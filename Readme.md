@@ -21,7 +21,7 @@ You can also use the following Bibtex entry to cite our paper:
 -------------
 Code was tested on Python version 3.6
 
-Build a working python enviromnent for e.g. [Anaconda](https://www.anaconda.com/).
+Build a working python enviromnent for e.g. using [Anaconda](https://www.anaconda.com/).
 
 Install packages from `requirements.txt`
 
