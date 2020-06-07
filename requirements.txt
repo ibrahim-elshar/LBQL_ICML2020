@@ -1,0 +1,16 @@
+python>=3.6.4
+future
+gym
+numpy
+scipy
+numba
+matplotlib
+seaborn
+pandas
+pickle
+collections
+itertools
+timeit
+bisect
+
+
