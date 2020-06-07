@@ -6,6 +6,8 @@ This is the source code for our paper "Lookahead-bounded Q-learning" published a
 ## Description
 We propose a new provably convergent variant of Q-learning that leverages upper and lower bounds derived using information relaxation techniques to improve the performance of standard Q-learning.
 
+<img src="./LBQL_figure.png" width=500px>
+
 ## Citation
 You can use the following Bibtex entry to cite our paper:
 ~~~bib
