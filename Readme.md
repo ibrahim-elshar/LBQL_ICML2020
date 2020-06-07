@@ -32,7 +32,7 @@ Clone this repo:
 ~~~
 		
 ## Instructions
-There are five environments organized in folders inside `src`: Windy Gridworld `(WG)`, StormyGridworld `(SG)`, Repositioning for Car-sharing in 2 stations Platform `(2-CS-R)`, Pricing for Car-sharing in 2 stations Platform `(2-CS)` and Pricing for Car-sharing in 4 stations Platform `(4-CS)`. Each environment is  placed in a separate folder.
+There are five environments organized in folders inside `src`: Windy Gridworld `(WG)`, Stormy Gridworld `(SG)`, Repositioning for Car-sharing in 2 stations Platform `(2-CS-R)`, Pricing for Car-sharing in 2 stations Platform `(2-CS)` and Pricing for Car-sharing in 4 stations Platform `(4-CS)`. Each environment is  placed in a separate folder.
 
 Each folder contains:
 - Environment file for e.g. `carsharing.py` for `2-CS`
