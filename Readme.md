@@ -1,7 +1,7 @@
 # Lookahead-bounded Q-learning
 **Authors:** Ibrahim El Shar and Daniel Jiang 
 
-This is the source code for our paper "Lookahead-bounded Q-learning" published at ICML 2020 [arXiv link](link goes here).
+This is the source code for our paper "Lookahead-bounded Q-learning" published at ICML 2020.
 
 ## Description
 We propose a new provably convergent variant of Q-learning that leverages upper and lower bounds derived using information relaxation techniques to improve the performance of standard Q-learning.
