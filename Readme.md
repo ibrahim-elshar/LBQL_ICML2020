@@ -39,7 +39,7 @@ Clone this repo:
 There are five environments organized in folders inside `src`: Windy Gridworld `(WG)`, Stormy Gridworld `(SG)`, Repositioning for Car-sharing in 2 stations Platform `(2-CS-R)`, Pricing for Car-sharing in 2 stations Platform `(2-CS)` and Pricing for Car-sharing in 4 stations Platform `(4-CS)`. Each environment is  placed in a separate folder.
 
 Each folder contains:
-- Environment file for e.g. `carsharing.py` for `2-CS`
+- Environment file, e.g. `carsharing.py` for `2-CS`. Running this file will produce the optimal Q-value `Qstar.pkl` if applicable.
 - `agents.py` file that contains the code for `QL, Double-QL, SQL, BCQL` and `LBQL` algorithms. 
 - `run.py` file which re-runs the experiments for the environment and reproduce the performance and relative error plots.
 
