@@ -32,7 +32,7 @@ Install packages from `requirements.txt`
 Clone this repo: 
 
 ~~~bash
-	git clone https://github.com/LBQL_ICML2020.git
+	git clone https://github.com/ibrahim-elshar/LBQL_ICML2020.git
 ~~~
 		
 ## Instructions
